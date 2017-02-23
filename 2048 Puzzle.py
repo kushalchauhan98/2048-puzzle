@@ -429,7 +429,7 @@ def menu():
                 about()
             else :
                 if quitgame() :
-                    quit()
+                    exit(0)
 
 
 def modes(psize, pmode):
@@ -1148,15 +1148,7 @@ def game_over(tiles):
                 return False
     return True
 
-
-
-    
-    
-    
-
-
 start()
-os.remove("New Text Document.txt")
 while True :
     size, mode = menu()
     l = initialize(size, mode)
