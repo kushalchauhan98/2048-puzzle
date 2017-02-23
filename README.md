@@ -6,4 +6,5 @@ I have stopped developing it now, and it works pretty good.
 The code may seem a little difficult to understand and less "modular", but it was, in fact my first ever project!
 
 The code has been converted into a standalone executable using cx_freeze module. The executable and its dependencies coan be found in the "build.zip".
-The executable and its dependencies have been compiled into a single Windows Installer (.exe)
+
+The executable and its dependencies have been compiled into a single Windows Installer File (setup.exe). You can just download and execute it and the game will be installed automatically.
