@@ -9,3 +9,5 @@ The code may seem a little difficult to understand and less "modular", but it wa
 The code has been converted into a standalone executable using cx_freeze module. The executable and its dependencies can be found in the "build.zip".
 
 The executable and its dependencies have been compiled into a single Windows Installer File (setup.exe). You can just download and execute it and the game will be installed automatically.
+
+I installed via the 'setup.exe', please run the game as administrator everytime.
